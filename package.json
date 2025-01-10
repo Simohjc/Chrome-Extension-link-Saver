@@ -1,0 +1,14 @@
+{
+  "name": "Saver planner",
+  "description": "https://github.com/Simohjc",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
